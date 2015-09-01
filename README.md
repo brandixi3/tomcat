@@ -17,4 +17,3 @@ Now you can access Tomcat using ,
 
 http://server_ip:8080
 
-(note : Tomcat location /opt/tomcat)
